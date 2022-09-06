@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/quby-chan-hi-wave-hello-hi-there-gif-17010845" align="right" width="400" heigth="250">
+<div class="tenor-gif-embed" data-postid="17010845" data-share-method="host" data-aspect-ratio="1.2549" data-width="100%"><a href="https://tenor.com/view/quby-chan-hi-wave-hello-hi-there-gif-17010845">Quby Chan Hi GIF</a>from <a href="https://tenor.com/search/quby+chan-gifs">Quby Chan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h1 align="center">Hi 👋 I'm Chego</h1>
 
