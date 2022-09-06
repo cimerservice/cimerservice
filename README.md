@@ -13,9 +13,9 @@
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://discord.com/users/645947614826725376"
-target="blank"><img align="center" src=https://unpkg.com/simple-icons@v7/icons/discord.svg" height="30" width="35" /></a>
+target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" height="30" width="35" /></a>
 <a href="https://instagram.com/chegoxrd"
-target="blank"><img align="center" src= https://unpkg.com/simple-icons@v7/icons/instagram.svg" height="30" width="35" /></a>
+target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" height="30" width="35" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
