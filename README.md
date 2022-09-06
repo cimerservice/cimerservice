@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/sMCt5siCHKtPpDomXx/giphy.gif" align="right" width="400" heigth="250">
-
 <h1 align="center">Hi everyone👋, I'm Chego</h1>
 
 <h3 align="left">I'm a beginner level python developer from the Turkey
