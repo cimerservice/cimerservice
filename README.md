@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/quby-chan-hi-wave-hello-hi-there-gif-17010845" align="right" width="400" heigth="250">
+<img src="https://media.giphy.com/media/sMCt5siCHKtPpDomXx/giphy.gif" align="right" width="400" heigth="250">
 
 <h1 align="center">Hi 👋 I'm Chego</h1>
 
