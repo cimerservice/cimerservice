@@ -23,6 +23,3 @@ target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/
 <a href="https://www.python.org/"
 target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/python.svg" height="30" width="35" /></a>
 </p>
-
-
-![chego](https://www.hizliresim.com/nz9f4j6)
