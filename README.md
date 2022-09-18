@@ -6,7 +6,7 @@
 
 - 📫 You can reach me by adding **chego#2726 on [Discord](https://discord.com/users/645947614826725376)**
 
-![chego#2726](https://lanyard-profile-readme.vercel.app/api/645947614826725376)
+[![Discord Presence](https://lanyard.cnrad.dev/api/645947614826725376)](https://discord.com/users/645947614826725376)
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
