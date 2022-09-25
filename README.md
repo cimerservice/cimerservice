@@ -22,4 +22,6 @@ target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/
 target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/nodedotjs.svg" height="30" width="35" /></a>
 <a href="https://www.python.org/"
 target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/python.svg" height="30" width="35" /></a>
+<a href="https://www.php.net/"
+target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.13.0/icons/php.svg" height="30" width="35" /></a>
 </p>
