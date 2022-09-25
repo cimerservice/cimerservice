@@ -6,7 +6,9 @@
 
 - 📫 You can reach me by adding **chego#2726 on [Discord](https://discord.com/users/645947614826725376)**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/645947614826725376)](https://discord.com/users/645947614826725376)
+[![Discord Presence](https://lanyard.cnrad.dev/api/645947614826725376)](https://discord.com/users/645947614826725376
+
+<p align="center"><img src="https://count.getloli.com/get/@:chego?theme=rule34" alt=":chego" /></p>
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
