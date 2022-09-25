@@ -15,7 +15,7 @@ target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/
 <a href="https://instagram.com/chegoxrd"
 target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" height="30" width="35" /></a>
 <a href="https://t.me/alochego"
-target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg#gh-light-mode-only" height="30" width="35" /></a>
+target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/telegram.svg" height="30" width="35" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -27,5 +27,5 @@ target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/
 <a href="https://www.php.net/"
 target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.13.0/icons/php.svg" height="30" width="35" /></a>
 <a href="https://www.w3schools.com/html/"
-target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.13.0/icons/html.svg" height="30" width="35" /></a>
+target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.13.0/icons/html5.svg" height="30" width="35" /></a>
 </p>
