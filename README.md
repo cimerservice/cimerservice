@@ -15,7 +15,7 @@ target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/
 <a href="https://instagram.com/chegoxrd"
 target="blank"><img align="center" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" height="30" width="35" /></a>
 <a href="https://t.me/alochego"
-target="blank"><img align="center" src="fab fa telegram" height="30" width="35" /></a>
+target="blank"><img align="center" src="fab fa-telegram" height="30" width="35" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
