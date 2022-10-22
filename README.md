@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **[Python](https://www.python.org/)**
 
-- 📫 You can reach me by adding **chego#1000 on [Discord](https://discord.com/users/645947614826725376)**
+- 📫 You can reach me by adding **chegoflex#7086 on [Discord](https://discord.com/users/645947614826725376)**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/645947614826725376)](https://discord.com/users/645947614826725376)
 
