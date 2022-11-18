@@ -31,3 +31,7 @@ target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.13.0/ic
 <a href="https://www.mysql.com/"
 target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.13.0/icons/mysql.svg" height="30" width="35" /></a>
 </p>
+
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     <iframe src="https://discord.com/widget?id=910582885940101243&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
