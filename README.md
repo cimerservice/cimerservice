@@ -28,6 +28,8 @@ target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.21.0/ic
 target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.21.0/icons/php.svg" height="30" width="35" /></a>
 <a href="https://www.w3schools.com/html/"
 target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.21.0/icons/html5.svg" height="30" width="35" /></a>
+<a href="https://www.w3schools.com/css/"
+target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.21.0/icons/css3.svg" height="30" width="35" /></a>
 <a href="https://www.mysql.com/"
 target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.21.0/icons/mysql.svg" height="30" width="35" /></a>
 </p>
