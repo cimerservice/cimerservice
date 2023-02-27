@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone👋, I'm Chego</h1>
 
-<h3 align="left">I'm a beginner level python developer from the Turkey
+<h3 align="left">I am an intermediate python developer from Turkey.
 
 - 🌱 I’m currently learning **[Python](https://www.python.org/)**
 
