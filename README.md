@@ -21,7 +21,7 @@ target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.21.0/ic
 <h3 align="left">Languages:</h3>
 <p align=left">
 <a href="https://nodejs.org/"
-target="blank"><i align="center" src="https://unpkg.com/simple-icons@7.21.0/icons/nodedotjs.svg" height="30" width="35" /></a>
+target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.21.0/icons/nodedotjs.svg" height="30" width="35" /></a>
 <a href="https://www.python.org/"
 target="blank"><img align="center" src="https://unpkg.com/simple-icons@7.21.0/icons/python.svg" height="30" width="35" /></a>
 <a href="https://www.php.net/"
