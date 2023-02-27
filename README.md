@@ -2,7 +2,7 @@
 
 <h3 align="left">I am an intermediate python developer from Turkey.
 
-- 🌱 I’m currently learning **[Python](https://www.python.org/)**
+- 🌱 I’m currently learning **[Python](https://www.python.org/)** and **[Html](https://www.w3schools.com/html/)**
 
 - 📫 You can reach me by adding **chego#0001 on [Discord](https://discord.com/users/645947614826725376)**
 
